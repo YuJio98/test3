@@ -1,0 +1,32 @@
+.view img {
+    max-height: 400px !important;
+    min-height: 350px;
+    object-fit: cover;
+
+}
+main {
+    margin: auto;
+    max-width: 740px;
+}
+main .card {
+    max-width: 720px;
+    margin: 15px;
+    padding: 1.5rem;
+}
+footer {
+    margin: auto;
+    max-width: 740px;
+}
+footer .card{
+    max-width: 740px;
+}
+.map{
+    border: none !important;
+    box-shadow: none !important;
+}
+.final{
+    border-top: 2px solid rgb(124, 124, 124);
+}
+.final a {
+    font-weight: bold;
+}
